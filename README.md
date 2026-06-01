@@ -42,14 +42,15 @@ I am a human being who loves to make games,websites(frontend) and arch linux ric
 
 
 **AI and LLMS**
+
 ![Ollama](https://img.shields.io/badge/Ollama_Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
 ###  Featured Projects
 
-* **Stellar Strike & FireOrbs:** Mobile game prototypes featuring custom architecture, physics mechanics, and specialized controls.
-* **YOSU & You Store Concepts:** eCommerce platforms designed with a deep focus on UI/UX, bringing Japanese minimalist and modern streetwear aesthetics to the web. 
+ **Stellar Strike : ** Mobile game prototypes featuring custom architecture, physics mechanics, and specialized controls.
+
 
 ---
 
