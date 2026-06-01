@@ -28,26 +28,29 @@ I am a human being who loves to make games,websites(frontend) and arch linux ric
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 **Design & Creative**  
 ![UI/UX](https://img.shields.io/badge/UI/UX_Design-FF007F?style=for-the-badge)
 ![Affinity](https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-**Environment & Utilities**  
+**OS**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+**AI and LLMS**
 ![Ollama](https://img.shields.io/badge/Ollama_Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 * **Stellar Strike & FireOrbs:** Mobile game prototypes featuring custom architecture, physics mechanics, and specialized controls.
 * **YOSU & You Store Concepts:** eCommerce platforms designed with a deep focus on UI/UX, bringing Japanese minimalist and modern streetwear aesthetics to the web. 
 
 ---
 
-### 📊 GitHub Stats
-[![Dwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
