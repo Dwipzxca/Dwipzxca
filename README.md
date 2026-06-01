@@ -14,7 +14,7 @@ I am a human being who loves to make games,websites(frontend) and arch linux ric
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend & Web**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
